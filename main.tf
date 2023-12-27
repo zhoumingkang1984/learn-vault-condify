@@ -21,4 +21,6 @@ provider "vault" {
   #    - VAULT_CACERT
   #    - VAULT_CAPATH
   #    - etc.  
+  address = "http://192.168.130.128:8200/"
+  token = "hvs.D0LumWSyEbwSVIJb6aZIuo6B"
 }
