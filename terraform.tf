@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "welab-bank-test"
+    organization = "welab-bank"
 
     workspaces {
-      name = "learn-terraform-cloud-2"
+      name = "learn-terraform-cloud"
     }
   }
 
